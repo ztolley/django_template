@@ -1,4 +1,6 @@
 # App Server 
+A template for django based projects with formatting and linting config
+
 
 # Developer notes
 Requirements:
